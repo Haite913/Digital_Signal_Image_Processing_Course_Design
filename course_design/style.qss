@@ -1,0 +1,42 @@
+/* style.qss */
+
+QMainWindow {
+    background-color: #f0f0f0;
+}
+
+QPushButton {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+QPushButton:hover {
+    background-color: #45a049;
+}
+
+QFrame {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+QLabel {
+    font-size: 16px;
+}
+
+QSlider::handle:horizontal {
+    background-color: #4CAF50;
+    border: 2px solid #ccc;
+    width: 18px;
+    height: 18px;
+    margin: -6px 0;
+    border-radius: 9px;
+}
+
+QSlider::groove:horizontal {
+    background-color: #ccc;
+    height: 4px;
+    border-radius: 2px;
+}
