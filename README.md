@@ -1,2 +1,11 @@
-# Digital_Signal_Image_Processing_Course_Design
 数字信号与图像处理课程设计—图片处理APP开发
+
+实验环境：
+- pyqt5
+- python
+- opencv
+- 还有部分引用需要通过pip install安装（根据相应报错安装）
+
+其他：
+- 有问题可以通过QQ问我326085389(记得附上备注)
+- 如果觉得作者做的不错，可以通过知乎赞赏功能请我喝杯水哟！！！
